@@ -6,7 +6,9 @@ function mostrar()
 	let nombre;
 
 	nombre = document.getElementById("txtIdNombre").value;
-
+	
+	// mostrar
+	
 	alert(nombre);
 	
 	//document.getElementById("txtIdNombre").value; para que desaparezca
