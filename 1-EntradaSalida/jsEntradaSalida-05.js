@@ -10,7 +10,7 @@ function mostrar()
 
 	let edad;
 
-	// asignacion de valores a las variables
+	// asignacion de valores a las variables.
 
 	nombre = document.getElementById("txtIdNombre").value;
 	
