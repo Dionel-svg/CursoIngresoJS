@@ -7,7 +7,7 @@ function mostrar()
 	//reservo espacio en memoria para guardar el nombre del usuario
 	let nombre;
 
-	//guardar en la variable nombre el texto que escribio en usuario dentro de la ventana prompt
+	//guardar en la variable nombre el texto que escribio el usuario dentro de la ventana prompt
 
 	nombre = prompt("Ingrese su nombre");
 
