@@ -20,5 +20,5 @@ function SacarResto()
 	
 	resultado = num1 % num2;
 
-	alert("La suma es  " + resultado);
+	alert("El resto es " + resultado);
 }
