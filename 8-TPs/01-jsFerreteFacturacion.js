@@ -20,7 +20,7 @@ function Sumar ()
 	
 	suma = (precio1 + precio2 + precio3);
 
-	alert("La suma es " + suma);
+	alert("La suma es $" + suma);
 	
 }
 function Promedio () 
@@ -43,7 +43,7 @@ function Promedio ()
     
     promedio = suma / 3;
 
-	alert("El promedio es " + promedio);
+	alert("El promedio es $" + promedio);
 	
 }
 function PrecioFinal () 
@@ -68,7 +68,7 @@ function PrecioFinal ()
 
     precioFinal = suma + (suma * 21/100);
 
-	alert("El precio final es " + precioFinal);
+	alert("El precio final es $" + precioFinal);
 	
 	
 }
