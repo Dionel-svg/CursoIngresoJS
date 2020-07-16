@@ -53,7 +53,7 @@ function PrecioFinal ()
     let precio2;
     let precio3;
     let suma;
-    let Preciofinal;
+    let PrecioFinal;
 	
 
 	precio1 = parseInt(document.getElementById("txtIdPrecioUno").value);
@@ -66,9 +66,9 @@ function PrecioFinal ()
     
     promedio = suma / 3;
 
-    preciofinal = suma + (suma * 21/100);
+    precioFinal = suma + (suma * 21/100);
 
-	alert("El preciofinal es " + preciofinal);
+	alert("El precio final es " + precioFinal);
 	
 	
 }
